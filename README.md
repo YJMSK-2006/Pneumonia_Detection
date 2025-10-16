@@ -131,7 +131,7 @@ The model takes a **128×128 RGB image** as input and outputs a class prediction
 
 **Yemineni Jyothi Madhava Saikrishna**
 🎓 B.Tech | Vasireddy Venkatadri Institute of Technology
-💼 AI & ML Enthusiast | Intern at Microsoft AI & Azure, Infosys Springboard, and ServiceNow
+💼 AI & ML Enthusiast | Intern at Microsoft AI & Azure, Infosys Springboard
 📧 [saikrishnayjm2006@gmail.com](mailto:saikrishnayjm2006@gmail.com)
 
 ---
