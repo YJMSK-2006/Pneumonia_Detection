@@ -1,5 +1,14 @@
 # 🩺 CliniScan: Lung-Abnormality Detection on Chest X-rays using AI
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red?logo=keras)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Deployed-success)
+
+---
+
 ## 📘 Overview
 
 **CliniScan** is an AI-powered web application that detects **lung abnormalities** such as **Pneumonia** from **Chest X-ray images**.
@@ -121,9 +130,9 @@ The model takes a **128×128 RGB image** as input and outputs a class prediction
 ## 👨‍💻 Author
 
 **Yemineni Jyothi Madhava Saikrishna**
-📧 [saikrishnayjm2006@gmail.com](mailto:saikrishnayjm2006@gmail.com)
 🎓 B.Tech | Vasireddy Venkatadri Institute of Technology
 💼 AI & ML Enthusiast | Intern at Microsoft AI & Azure, Infosys Springboard, and ServiceNow
+📧 [saikrishnayjm2006@gmail.com](mailto:saikrishnayjm2006@gmail.com)
 
 ---
 
@@ -135,4 +144,14 @@ The model takes a **128×128 RGB image** as input and outputs a class prediction
 
 ---
 
-Would you like me to make it **GitHub-ready with badges (accuracy, license, Python version, etc.)** and add a **demo screenshot section** too? That would make it look even more professional for portfolio use.
+## 📜 License
+
+This project is licensed under the **MIT License**.
+You are free to use, modify, and distribute this work with proper attribution.
+
+---
+
+## 🌐 Live Demo
+
+🚀 **Run Locally:** [http://localhost:8501](http://localhost:8501)
+
